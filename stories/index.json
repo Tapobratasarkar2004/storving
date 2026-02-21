@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "The Silent Moon",
+    "subtitle": "A tale of loneliness and light",
+    "date": "2026-02-21",
+    "authorName": "Rao",
+    "coverImage": "images/img1.png"
+  },
+  {
+    "id": "2",
+    "title": "The Silent ",
+    "subtitle": "A tale of loneliness and light",
+    "date": "2026-02-21",
+    "authorName": "Arjun Rao",
+    "coverImage": "images/img1.png"
+  }
+]

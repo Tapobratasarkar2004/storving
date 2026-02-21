@@ -1,0 +1,29 @@
+{
+  "id": "story-2",
+  "title": "The Silent",
+  "subtitle": "A tale of loneliness and light",
+  "date": "2026-02-21",
+
+  "author": {
+    "name": "Rao",
+    "bio": "explores human emotions and silence."
+  },
+
+  "coverImage": "images/img1.png",
+
+  "content": [
+    {
+      "type": "text",
+      "value": "It was a silent night. The wind whispered through empty streets..."
+    },
+    {
+      "type": "image",
+      "value": "It was a silent night",
+      "caption": "The lonely street under moonlight"
+    },
+    {
+      "type": "text",
+      "value": "The moon watched everything without judgment."
+    }
+  ]
+}
